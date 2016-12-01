@@ -20,9 +20,10 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    color:Aqua;
+    color:Black;
     font-size: 3em;
     font-family: 'Arial', 'Serif';
+    background-color:LightBlue;
 }
 p {
     font-size: 1.5em;
