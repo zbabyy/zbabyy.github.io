@@ -20,6 +20,7 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
+    color:Aqua;
     font-size: 3em;
     font-family: 'Arial', 'Serif';
 }
