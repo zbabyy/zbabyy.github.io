@@ -7,7 +7,7 @@ nav ul, footer ul {
     padding: 0px;
     list-style: none;
     font-weight: bold;
-    color:SteelBlue;
+    
     
 }
 nav ul li, footer ul li {
@@ -46,6 +46,6 @@ ul.posts {
 
 ul.posts li {
     list-style: none;
-    color:SteelBlue;
+    
 }
 
