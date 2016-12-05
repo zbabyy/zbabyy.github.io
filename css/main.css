@@ -49,7 +49,12 @@ ul.posts li {
     
 }
 #cover {
-    background-image: url("http://wallpapercave.com/wp/0JydX3Y.jpg");
+    background: url("http://wallpapercave.com/wp/0JydX3Y.jpg") no-repeat top center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 900px;
+    position: relative;
+    top: -55px;
     width:100%;
 
 }
