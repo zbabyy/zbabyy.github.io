@@ -56,5 +56,8 @@ ul.posts li {
     position: relative;
     top: -55px;
     width:100%;
-
+}
+h2 {
+    font-family: 'Century Gothic';
+    font-size: 50px
 }
