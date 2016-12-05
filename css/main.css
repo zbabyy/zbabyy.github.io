@@ -48,4 +48,8 @@ ul.posts li {
     list-style: none;
     
 }
+#cover {
+    background-image: url("http://wallpapercave.com/wp/0JydX3Y.jpg");
+    width:100%;
 
+}
