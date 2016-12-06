@@ -19,13 +19,13 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color:SteelBlue;
+    color:Indigo;
 }
 a:hover {
     text-decoration: underline;
 }
 h1 {
-    color:LightSeaGreen;
+    color:MidnightBlue;
     font-size: 3em;
     font-family: 'Century Gothic', 'Serif';
     margin: center;
@@ -34,7 +34,7 @@ h1 {
 p {
     font-size: 1.5em;
     line-height: 1.4em;
-    color: Black;
+    color: Indigo;
 }
 footer {
     border-top: 1px solid #d5d5d5;
@@ -55,6 +55,7 @@ h2 {
     font-size: 50px
     background: url("http://www.hdbloggers.net/wp-content/uploads/2016/09/Download-Background-Pictures.jpg");
     background-size: cover;
+    color: DarkSlateGray;
 }
  jumbotron {
 background: url("http://www.hdbloggers.net/wp-content/uploads/2016/09/Download-Background-Pictures.jpg");
