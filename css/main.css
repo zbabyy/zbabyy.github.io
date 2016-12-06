@@ -48,16 +48,12 @@ ul.posts li {
     list-style: none;
     
 }
-#cover {
-    background: url("http://wallpapercave.com/wp/0JydX3Y.jpg") no-repeat top center;
-    background-size: cover;
-    background-attachment: fixed;
-    height: 900px;
-    position: relative;
-    top: -55px;
-    width:100%;
-}
 h2 {
     font-family: 'Century Gothic';
     font-size: 50px
+}
+jumbotron{
+background: url("http://www.hdbloggers.net/wp-content/uploads/2016/09/Download-Background-Pictures.jpg")
+background-size: cover;
+
 }
