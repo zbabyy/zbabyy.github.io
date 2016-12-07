@@ -52,8 +52,7 @@ ul.posts li {
 }
 h2 {
     font-family: 'Century Gothic';
-    font-size: 100px
-    background: url("http://www.hdbloggers.net/wp-content/uploads/2016/09/Download-Background-Pictures.jpg");
+    font-size: 100px;  
     background-size: cover;
     color: DarkSlateGray;
 }
