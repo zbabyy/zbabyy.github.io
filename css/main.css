@@ -77,3 +77,6 @@ text-transform: uppercase;
 display: inline-block;
 margin-bottom: 20px;
 }
+div ul li {
+font-size:100px;
+}
