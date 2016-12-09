@@ -52,7 +52,7 @@ ul.posts li {
 }
 h2 {
     font-family: 'Century Gothic';
-    font-size: 300px;  
+    font-size: 100px;  
     background-size: cover;
     color: White;
 }
@@ -61,7 +61,7 @@ background-size: cover;
 }
 h3 {
 font-family:'Papyrus';
-font-size:100px
+font-size:300px
 color: Black;
 }
 btn-default {
