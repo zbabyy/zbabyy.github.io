@@ -57,6 +57,7 @@ h2 {
     font-size: 100px;  
     background-size: cover;
     color: White;
+    text-decoration: underline;
 }
  jumbotron {
 background-size: cover;
