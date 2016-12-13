@@ -67,24 +67,14 @@ h3 {
 font-family:'Papyrus';
 font-size:100px;
 color: Black;
-}
-
-btn-col {
-background-color: #333;
-border: 1px solid #333
-color: AliceBlue;
-padding: 10px 20px;
-font-family: 'Raleway', sans-serif;
-font-weight: 600;
-font-size: 10px;
-letter-spacing: 1.3px;
-text-transform: uppercase;
-display: inline-block;
-margin-bottom: 20px;
+border: 10px;
 }
 
 div ul li {
 font-size:50px;
 color: Purple;
 }
+th {
+background-color: LightBlue;
 
+}
