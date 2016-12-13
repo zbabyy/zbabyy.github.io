@@ -76,6 +76,10 @@ color: Purple;
 }
 th {
 background-color: LightBlue;
-font-family:"Century Gothic";
+font-family:"Comic Sans MS";
 font-size: 100px;    
+}
+td {
+font-family:"Century Gothic";
+font-size: 75px;
 }
