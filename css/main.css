@@ -59,15 +59,16 @@ h2 {
     color: White;
     text-decoration: underline;
 }
- jumbotron {
-background-size: cover;
-}
 
 h3 {
 font-family:'Papyrus';
 font-size:100px;
 color: Black;
-border: 10px;
+border: 10px solid;
+border-width: 2px;
+border-color: Aquamarine;
+border-radius: 10px;
+width: 50%;
 }
 
 div ul li {
