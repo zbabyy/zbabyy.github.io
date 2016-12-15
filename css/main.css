@@ -12,9 +12,9 @@ nav ul, footer ul {
     
     
 }
-nav ul li, footer ul li {
+nav ul li {
     display: inline;
-    margin-right: 20px;
+    margin: center;
     
 }
 a {
