@@ -11,7 +11,7 @@ nav ul, footer ul {
     list-style: none;
     font-weight: bold;
 }
-a:nav ul{
+a, nav ul li{
 color: white;
 }
 nav ul li {
