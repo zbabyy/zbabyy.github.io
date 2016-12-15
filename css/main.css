@@ -3,6 +3,7 @@ body {
     width: 70%;
     background-image: url("https://images3.pixlis.com/background-image-angled-lines-and-stripes-seamless-tileable-gold-tips-royal-blue-22zscr.png");
     background-size: cover;
+    background-attachment: fixed;
 }
 nav ul, footer ul {
     font-family:'Century Gothic', 'Arial', 'Sans-Serif';
@@ -92,4 +93,5 @@ font-size: 20px;
 font-family: "Comic Sans MS";    
 background-color: Gold;
 text-decoration: underline;
+border: 1px;
 }
