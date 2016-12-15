@@ -10,8 +10,9 @@ nav ul, footer ul {
     padding: 0px;
     list-style: none;
     font-weight: bold;
-    
-    
+}
+a:h1{
+color: white;
 }
 nav ul li {
     display: inline;
