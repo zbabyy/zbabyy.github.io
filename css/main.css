@@ -15,6 +15,7 @@ nav ul, footer ul {
 nav ul li {
     display: inline;
     margin: center;
+    text-align: center;
     
 }
 a {
@@ -29,7 +30,7 @@ h1 {
     font-size: 3em;
     font-family: 'Century Gothic', 'Serif';
     margin: center;
-    text-decoration: underline;
+    text-align: center;
     
 }
 p {
