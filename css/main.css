@@ -39,7 +39,7 @@ h1 {
 p {
     font-size: 1.5em;
     line-height: 1.4em;
-    color: Indigo;
+    color: Yellow;
     font-size:30px;
 }
 footer {
@@ -95,4 +95,5 @@ font-family: "Comic Sans MS";
 background-color: Gold;
 text-decoration: underline;
 border: 1px;
+border-color: MidnightBlue;
 }
