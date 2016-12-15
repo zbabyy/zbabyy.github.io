@@ -88,9 +88,8 @@ background-color: White;
 color: DarkBlue;
 }
 button {
-font-size: 30px;
+font-size: 10px;
 font-family: "Comic Sans MS";    
-background-color: white;
-border: 10px solid;
+background-color: Gold;
 text-decoration: underline;
 }
