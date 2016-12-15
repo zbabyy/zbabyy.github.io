@@ -11,8 +11,8 @@ nav ul, footer ul {
     list-style: none;
     font-weight: bold;
 }
-a, nav ul li{
-color: white;
+a, nav ul li {
+    color: White;
 }
 nav ul li {
     display: inline;
