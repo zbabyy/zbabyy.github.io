@@ -61,8 +61,10 @@ ul.posts {
 }
 
 ul.posts li {
-    list-style: none;
-    
+    list-style: none;    
+}
+ul li{
+list-style: none;
 }
 h2 {
     font-family: 'Century Gothic';
