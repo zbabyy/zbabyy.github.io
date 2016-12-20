@@ -12,3 +12,6 @@ h1 {
 font-size: 75px;
 font-family: 'Arial';
 }
+ul {
+list-style: none;
+}
