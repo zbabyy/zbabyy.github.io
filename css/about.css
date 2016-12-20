@@ -3,3 +3,8 @@ background-image: url("http://wallpapercave.com/wp/0JydX3Y.jpg");
 background-attachment: fixed;
 background-size: cover;
 }
+p {
+font-family: "Comic Sans MS"
+color: Peru;
+font-size: 30px
+}
