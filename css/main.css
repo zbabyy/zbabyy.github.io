@@ -5,12 +5,18 @@ body {
     background-size: cover;
     background-attachment: fixed;
 }
-nav ul, footer ul {
+nav ul, {
     font-family:'Century Gothic', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
     word-spacing: 3em;
+}
+footer ul {
+font-family: 'Century Gothic'
+padding: 0px;
+list-style: none;
+font-weight: bold;
 }
 a, nav ul li {
     color: White;
