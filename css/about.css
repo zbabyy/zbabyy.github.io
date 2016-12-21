@@ -18,6 +18,7 @@ list-style: none;
 footer{
 font-family: 'Century Gothic', 'Sans-serif';
 font-size: 5em;
-
-
+}
+footer p{
+color: Black;
 }
