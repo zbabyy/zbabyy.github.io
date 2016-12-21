@@ -85,11 +85,7 @@ h3 {
 font-family:'Papyrus';
 font-size:75px;
 color: Black;
-border: 10px solid;
-border-width: 2px;
-border-color: Aquamarine;
-border-radius: 10px;
-width: 40%;
+text-align: Center;
 }
 
 div ul li {
