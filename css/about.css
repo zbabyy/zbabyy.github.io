@@ -17,11 +17,11 @@ ul {
 list-style: none;
 }
 footer{
-font-family: 'Century Gothic', 'Sans-serif';
-font-size: 10px;
+font-size: 5px;
 }
 footer p{
 color: LightSlateGray;
+font-family:'Century Gothic', 'Sans-serif';
 }
 h2{
 font-size: 75px;
