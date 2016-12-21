@@ -5,20 +5,25 @@ background-size: cover;
 }
 p {
 font-family: "Comic Sans MS";
-color: Peru;
+color: DarkCyan;
 font-size: 30px
 }
 h1 {
 font-size: 75px;
 font-family: 'Arial';
+color: White;
 }
 ul {
 list-style: none;
 }
 footer{
 font-family: 'Century Gothic', 'Sans-serif';
-font-size: 5em;
+font-size: 10px;
 }
 footer p{
-color: Black;
+color: LightGray;
 }
+h2{
+font-size: 75px;
+color: Goldenrod;
+} 
