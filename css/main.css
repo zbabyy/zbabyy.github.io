@@ -112,5 +112,5 @@ border: 1px;
 border-color: MidnightBlue;
 }
 img {
-text-align: center;
+    margin: center;
 }
