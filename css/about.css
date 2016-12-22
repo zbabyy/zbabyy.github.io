@@ -27,5 +27,6 @@ font-size: 75px;
 color: Goldenrod;;
 } 
 img {
-margin:auto;
+margin-left: auto;
+margin-right: auto;
 }
