@@ -120,6 +120,6 @@ font-family: 'Tahoma, Arial, Helvetica, sans-serirf';
 font-weight: bold; 
 font-size: 50px;     
 }
-div h3 {
+div.announcements h3 {
 color:DarkGreen;
 }
