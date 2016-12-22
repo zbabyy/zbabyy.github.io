@@ -114,3 +114,12 @@ border-color: MidnightBlue;
 img {
     margin: center;
 }
+h4 {
+color: Brown;
+font-family: 'Tahoma, Arial, Helvetica, sans-serirf';
+font-weight: bold; 
+font-size: 50px;     
+}
+announcements h3 {
+color:DarkGreen;
+}
