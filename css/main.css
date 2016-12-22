@@ -125,3 +125,14 @@ color:DarkBlue;
 font: 'Century';
 font-size: 40px;
 }
+div.times li{
+color: Crimson;
+font: 'Century';
+font-size: 30px
+}
+div.times p {
+color: Gray;
+font-weight: bold;
+Font: 'Comic Sans MS';
+font-size: 35px
+}
