@@ -45,11 +45,11 @@ nav ul li {
 table{
 margin:auto;
 }
-div table2 th{
+div.table2 th{
 background-color: Ivory;
 color: MidnightBlue;
 }
-div table2 td {
+div.table2 td {
 background-color: MidnightBlue;
 color:Ivory;
 }
