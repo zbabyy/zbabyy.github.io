@@ -44,7 +44,7 @@ a:hover {
     transition-timing-function: ease-out;
     
 }
-a p {
+a.button {
 color: Blue;
 }
 h1 {
