@@ -1,4 +1,21 @@
 body {
 background-image: url("http://www.youtodesign.com/uploads/allimg/1409/3019.jpg");
 background-size: cover;
+background-attachment: fixed;
+}
+h1{
+color: DarkBlue;
+  font-size: 75px;
+}
+th{
+font:"Helvetica";
+background-color: Blue;
+color: goldenrod;
+font-size: 50px;
+}
+td {
+font: 'Arial';
+background-color: goldenrod;
+color:blue;
+font-size: 50px  
 }
