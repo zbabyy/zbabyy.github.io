@@ -39,5 +39,8 @@ font-size: 25px;
 word-spacing: 2em;
 }
 nav ul li {
-display: inline;
+    display: inline;
+    margin: center;
+    text-align: center;
+    color: White;
 }
