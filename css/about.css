@@ -43,7 +43,6 @@ nav ul li {
     display: inline;
     text-align: center;
     color: White;
-    margin: 20px auto 40px;
 }
 
 a {
@@ -51,4 +50,7 @@ color: White;
 }
 li h2 {
 background-color: DarkBlue;
+}
+ul.posts {
+margin: 20px auto 40px;
 }
