@@ -27,3 +27,11 @@ a {
 color: White;
 text-decoration: underline;
 }
+nav ul {
+list-style: none;
+font-family:'Century Gothic', 'Arial', 'Sans-Serif';
+font-weight: bold;
+font-size: 25px;
+word-spacing: 2em;
+padding: 0px;
+}
