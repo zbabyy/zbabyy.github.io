@@ -10,7 +10,7 @@ color: DarkBlue;
 h2 {
 color: MidnightBlue;
 font-size: 70px;
-margin: auto;
+text-align: center;
 }
 th{
 font:"Helvetica";
@@ -35,7 +35,6 @@ font-weight: bold;
 font-size: 25px;
 word-spacing: 2em;
 padding: 0px;
-  margin: auto;
 }
 nav ul li {
     display: inline;
