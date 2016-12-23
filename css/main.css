@@ -44,6 +44,9 @@ a:hover {
     transition-timing-function: ease-out;
     
 }
+a p {
+color: Blue;
+}
 h1 {
     color:MidnightBlue;
     font-size: 3em;
