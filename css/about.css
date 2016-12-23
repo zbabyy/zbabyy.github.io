@@ -30,3 +30,11 @@ img {
 display: block;
 margin: auto;
 }
+nav ul {
+font-family:'Century Gothic', 'Arial', 'Sans-Serif';
+padding: 0px;
+list-style: none;
+font-weight: bold;
+font-size: 25px;
+word-spacing: 2em;
+}
