@@ -58,3 +58,6 @@ background-color: Goldenrod;
 table.table1 {
 background-color: Ivory;
 }
+ul.posts {
+margin: 20px auto 40px;
+}
