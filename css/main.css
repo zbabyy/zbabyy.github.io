@@ -18,7 +18,7 @@ padding: 0px;
 list-style: none;
 font-weight: bold;
 }
-a, nav ul li {
+nav a {
     color: White;
 }
 nav ul li {
