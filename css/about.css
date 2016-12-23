@@ -38,3 +38,6 @@ font-weight: bold;
 font-size: 25px;
 word-spacing: 2em;
 }
+nav ul li {
+display: inline;
+}
