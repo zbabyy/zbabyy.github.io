@@ -19,7 +19,7 @@ padding: 0px;
 list-style: none;
 font-weight: bold;
 }
-nav a {
+a.nav{
     color: White;
 }
 nav ul li {
@@ -31,7 +31,7 @@ nav ul li {
 }
 a {
     text-decoration: underline;
-    color: White;
+    color: Blue;
 }
 a:hover {
     text-decoration: underline;
