@@ -41,7 +41,7 @@ word-spacing: 2em;
 
 nav ul li {
     display: inline;
-    margin: center;
+    margin: auto;
     text-align: center;
     color: White;
 }
