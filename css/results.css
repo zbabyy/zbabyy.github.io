@@ -10,6 +10,7 @@ color: DarkBlue;
 h2 {
 color: MidnightBlue;
 font-size: 70px;
+margin: auto;
 }
 th{
 font:"Helvetica";
@@ -40,4 +41,15 @@ nav ul li {
     margin: auto;
     text-align: center;
     color: White;
+}
+table{
+margin:auto;
+}
+div table2 th{
+background-color: Ivory;
+color: MidnightBlue;
+}
+div table2 td {
+background-color: MidnightBlue;
+color:Ivory;
 }
