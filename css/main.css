@@ -10,7 +10,6 @@ nav ul {
     padding: 0px;
     list-style: none;
     font-weight: bold;
-    word-spacing: 3em;
     font-size: 25px;
 }
 footer ul {
@@ -27,6 +26,7 @@ nav ul li {
     margin: center;
     text-align: center;
     color: White;
+    word-spacing: 3em;
     
 }
 a {
