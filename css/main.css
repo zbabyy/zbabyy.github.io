@@ -25,6 +25,7 @@ a.nav{
 nav ul li {
     display: inline;
     margin: center;
+    text-align: center;
     color: White;
     
 }
