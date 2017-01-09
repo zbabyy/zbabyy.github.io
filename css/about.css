@@ -45,7 +45,9 @@ nav ul li {
     text-align: center;
     color: White;
 }
-
+a.nav {
+text-align:center;
+}
 a {
 color: White;
 }
