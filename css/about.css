@@ -38,12 +38,11 @@ font-weight: bold;
 font-size: 25px;
 word-spacing: 2em;
 }
-
 nav ul li {
-    display: inline;
-    margin: center;
-    text-align: center;
-    color: White;
+display:inline;
+margin: center;
+text-align: center;
+color: White;    
 }
 a.nav {
 text-align:center;
