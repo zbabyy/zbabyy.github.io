@@ -1,5 +1,4 @@
-nav ul
-{
+nav ul {
 	list-style: none;
 	font-size: 20px;
 	margin: 0;
@@ -7,30 +6,21 @@ nav ul
 	word-spacing: 2em;
 }
 
-nav ul li 
-{
+nav ul li {
 	display: inline;
 	margin: center;
 	text-align: center;
 	color: black;
 }
 
-nav a 
-{
+nav a {
 	float: right;
 	color: black;
 	text-align: center;
 	font-size: 18px;
 }
 
-nav li a:hover 
-{
-	background-color: blue;
-	color: white;
-}
-
-li a.active 
-{
+nav li a:hover {
 	background-color: blue;
 	color: white;
 }
