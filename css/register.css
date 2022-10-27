@@ -4,15 +4,18 @@ nav ul
 	font-size: 20px;
 	margin: 0;
 	padding: 0;
+	word-spacing: 2em;
 }
 
 nav ul li 
 {
 	display: inline;
+	margin: center;
+	text-align: center;
 	color: black;
 }
 
-.nav a 
+nav a 
 {
 	float: right;
 	color: black;
