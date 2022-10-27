@@ -13,14 +13,11 @@ nav ul li {
 	color: black;
 }
 
-nav a {
-	float: right;
-	color: black;
-	text-align: center;
-	font-size: 18px;
-}
-
 nav li a:hover {
 	background-color: blue;
 	color: white;
+}
+
+ul.posts li {
+	list-style: none;
 }
