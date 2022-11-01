@@ -1,7 +1,7 @@
 body {
     margin: 60px auto;
     width: 70%;
-    background-image: url("https://images3.pixlis.com/background-image-angled-lines-and-stripes-seamless-tileable-gold-tips-royal-blue-22zscr.png");
+    background-image: url("https://img.freepik.com/free-vector/cinema-film-strips-blue-background_1017-23456.jpg?w=2000");
     background-size: cover;
     background-attachment: fixed;
 }
@@ -15,32 +15,23 @@ nav ul {
     word-spacing: 2em;
 }
 
-footer ul {
-font-family: 'Century Gothic';
-padding: 0px;
-list-style: none;
-font-weight: bold;
-}
-
 a.nav{
-    color: White;
+    color: Black;
 }
 
 nav ul li {
     display: inline;
     margin: center;
     text-align: center;
-    color: White;
+    color: Black;
     
 }
 
 a {
-    text-decoration: underline;
     color: Blue;
 }
 
 a:hover {
-    text-decoration: underline;
     display: inline-block;
     vertical-align: middle;
     transform: translateZ(0);
@@ -48,11 +39,6 @@ a:hover {
     backface-visibility: hidden;
     transition-duration: 0.3s;
     transition-timing-function: ease-out;
-    
-}
-
-a.button {
-    color: Blue;
 }
 
 h1 {
