@@ -92,7 +92,8 @@ div ul li {
 
 th {
     font-family:"Comic Sans MS";
-    font-size: 50px;    
+    font-size: 40px;   
+    word-spacing: 2em;
 }
 
 td {
