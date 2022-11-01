@@ -94,17 +94,16 @@ div ul li {
 }
 
 th {
-    background-color: LightBlue;
     font-family:"Comic Sans MS";
-    font-size: 100px;    
+    font-size: 50px;    
 }
 
 td {
     font-family:"Century Gothic";
-    font-size: 75px;
-    background-color: White;
-    color: DarkBlue;
+    font-size: 40px;
+    color: Black;
 }
+
 button {
     font-size: 20px;
     font-family: "Comic Sans MS";    
