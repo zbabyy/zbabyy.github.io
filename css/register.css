@@ -90,6 +90,10 @@ div ul li {
     color: Purple;
 }
 
+table{
+    border-spacing: 0 15px;
+}
+
 th {
     font-family:"Comic Sans MS";
     font-size: 40px;   
