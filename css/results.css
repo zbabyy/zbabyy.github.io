@@ -1,64 +1,159 @@
 body {
-background-image: url("https://images3.pixlis.com/background-image-angled-lines-and-stripes-seamless-tileable-gold-tips-royal-blue-22zscr.png");
-background-size: cover;
-background-attachment: fixed;
+    margin: 60px auto;
+    width: 70%;
+    background-image: url("https://images3.pixlis.com/background-image-angled-lines-and-stripes-seamless-tileable-gold-tips-royal-blue-22zscr.png");
+    background-size: cover;
+    background-attachment: fixed;
 }
-h1{
-color: DarkBlue;
-  font-size: 75px;
-}
-h2 {
-color: DarkBlue;
-font-size: 70px;
-text-align: center;
-}
-th{
-font:"Helvetica";
-background-color: Blue;
-color: goldenrod;
-font-size: 50px;
-}
-td {
-font: 'Arial';
-background-color: goldenrod;
-color:Darkblue;
-font-size: 50px;  
-}
-a {
-color: White;
-text-decoration: underline;
-}
+
 nav ul {
-list-style: none;
-font-family:'Century Gothic', 'Arial', 'Sans-Serif';
-font-weight: bold;
-font-size: 25px;
-word-spacing: 2em;
-padding: 0px;
+    font-family:'Century Gothic', 'Arial', 'Sans-Serif';
+    padding: 0px;
+    list-style: none;
+    font-weight: bold;
+    font-size: 25px;
+    word-spacing: 2em;
 }
+
+footer ul {
+font-family: 'Century Gothic';
+padding: 0px;
+list-style: none;
+font-weight: bold;
+}
+
+a.nav{
+    color: White;
+}
+
 nav ul li {
     display: inline;
     margin: center;
     text-align: center;
     color: White;
+    
 }
-table{
-margin:auto;
+
+a {
+    text-decoration: underline;
+    color: Blue;
 }
-div.table2 th{
-background-color: Ivory;
-color: MidnightBlue;
+
+a:hover {
+    text-decoration: underline;
+    display: inline-block;
+    vertical-align: middle;
+    transform: translateZ(0);
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+    backface-visibility: hidden;
+    transition-duration: 0.3s;
+    transition-timing-function: ease-out;
+    
 }
-div.table2 td {
-background-color: MidnightBlue;
-color:Ivory;
+
+a.button {
+    color: Blue;
 }
-div.table2 table {
-background-color: Goldenrod;
+
+h1 {
+    color:MidnightBlue;
+    font-size: 3em;
+    font-family: 'Century Gothic', 'Serif';
+    margin: center;
+    text-align: center;
+    
 }
-table.table1 {
-background-color: Ivory;
+
+p {
+    font-size: 1.5em;
+    line-height: 1.4em;
+    color: Gold;
+    font-size:30px;
 }
-ul.posts {
-margin: 20px auto 40px;
+
+footer {
+    border-top: 1px solid #d5d5d5;
+    font-size: 2em;
+}
+
+ul.posts { 
+    margin: 20px auto 40px; 
+    font-size: 3em;
+}
+
+ul.posts li {
+    list-style: none;    
+}
+
+ul li{
+    list-style: none;
+}
+
+h2 {
+    font-family: 'Century Gothic';
+    font-size: 100px;  
+    background-size: cover;
+    color: Aqua;
+}
+
+h3 {
+    font-family:'Papyrus';
+    font-size:75px;
+    color: Black;
+    text-align: Center;
+}
+div ul li {
+    font-size:50px;
+    color: Purple;
+}
+
+th {
+    background-color: LightBlue;
+    font-family:"Comic Sans MS";
+    font-size: 100px;    
+}
+
+td {
+    font-family:"Century Gothic";
+    font-size: 75px;
+    background-color: White;
+    color: DarkBlue;
+}
+button {
+    font-size: 20px;
+    font-family: "Comic Sans MS";    
+    background-color: Gold;
+    text-decoration: underline;
+    border: 1px;
+    border-color: MidnightBlue;
+}
+
+h4 {
+    color: Brown;
+    font-family: 'Tahoma, Arial, Helvetica, sans-serirf';
+    font-weight: bold; 
+    font-size: 50px;     
+}
+
+div.announcements h3 {
+    color:DarkBlue;
+    font: 'Century';
+    font-size: 40px;
+}
+
+div.times li{
+    color: Crimson;
+    font: 'Century';
+    font-size: 30px
+}
+
+div.times p {
+    color: Gray;
+    font-weight: bold;
+    font: 'Comic Sans MS';
+    font-size: 35px
+}
+
+div.announcements {
+    background-color: YELLOW;
 }
