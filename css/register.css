@@ -1,35 +1,159 @@
 body {
-	margin: 60px auto;
-	width: 70%;
-	background-size: cover;
-	bavkground-attatchment: fixed;
+    margin: 60px auto;
+    width: 70%;
+    background-image: url("https://images3.pixlis.com/background-image-angled-lines-and-stripes-seamless-tileable-gold-tips-royal-blue-22zscr.png");
+    background-size: cover;
+    background-attachment: fixed;
 }
 
-div.nav ul li {
-	font-size: 20px;
-	margin: 0;
-	padding: 0;
-	word-spacing: 2em;
-	list-style-type: none;
-	display: inline;
-	margin: center;
-	text-align: center;
-	color: black;
+nav ul {
+    font-family:'Century Gothic', 'Arial', 'Sans-Serif';
+    padding: 0px;
+    list-style: none;
+    font-weight: bold;
+    font-size: 25px;
+    word-spacing: 2em;
 }
 
-.nav li a:hover {
-	background-color: blue;
-	color: white;
+footer ul {
+font-family: 'Century Gothic';
+padding: 0px;
+list-style: none;
+font-weight: bold;
 }
 
-div.login h1 {
-	text-align: center;
+a.nav{
+    color: White;
 }
 
-div.login th {
-	text-align: center;
+nav ul li {
+    display: inline;
+    margin: center;
+    text-align: center;
+    color: White;
+    
 }
 
-div.login tr {
-	text-align: center;
+a {
+    text-decoration: underline;
+    color: Blue;
+}
+
+a:hover {
+    text-decoration: underline;
+    display: inline-block;
+    vertical-align: middle;
+    transform: translateZ(0);
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+    backface-visibility: hidden;
+    transition-duration: 0.3s;
+    transition-timing-function: ease-out;
+    
+}
+
+a.button {
+    color: Blue;
+}
+
+h1 {
+    color:MidnightBlue;
+    font-size: 3em;
+    font-family: 'Century Gothic', 'Serif';
+    margin: center;
+    text-align: center;
+    
+}
+
+p {
+    font-size: 1.5em;
+    line-height: 1.4em;
+    color: Gold;
+    font-size:30px;
+}
+
+footer {
+    border-top: 1px solid #d5d5d5;
+    font-size: 2em;
+}
+
+ul.posts { 
+    margin: 20px auto 40px; 
+    font-size: 3em;
+}
+
+ul.posts li {
+    list-style: none;    
+}
+
+ul li{
+    list-style: none;
+}
+
+h2 {
+    font-family: 'Century Gothic';
+    font-size: 100px;  
+    background-size: cover;
+    color: Aqua;
+}
+
+h3 {
+    font-family:'Papyrus';
+    font-size:75px;
+    color: Black;
+    text-align: Center;
+}
+div ul li {
+    font-size:50px;
+    color: Purple;
+}
+
+th {
+    background-color: LightBlue;
+    font-family:"Comic Sans MS";
+    font-size: 100px;    
+}
+
+td {
+    font-family:"Century Gothic";
+    font-size: 75px;
+    background-color: White;
+    color: DarkBlue;
+}
+button {
+    font-size: 20px;
+    font-family: "Comic Sans MS";    
+    background-color: Gold;
+    text-decoration: underline;
+    border: 1px;
+    border-color: MidnightBlue;
+}
+
+h4 {
+    color: Brown;
+    font-family: 'Tahoma, Arial, Helvetica, sans-serirf';
+    font-weight: bold; 
+    font-size: 50px;     
+}
+
+div.announcements h3 {
+    color:DarkBlue;
+    font: 'Century';
+    font-size: 40px;
+}
+
+div.times li{
+    color: Crimson;
+    font: 'Century';
+    font-size: 30px
+}
+
+div.times p {
+    color: Gray;
+    font-weight: bold;
+    font: 'Comic Sans MS';
+    font-size: 35px
+}
+
+div.announcements {
+    background-color: YELLOW;
 }
