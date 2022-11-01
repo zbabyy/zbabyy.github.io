@@ -20,6 +20,7 @@ a.nav{
 }
 
 nav ul li {
+    text-decoration: none;
     display: inline;
     margin: center;
     text-align: center;
@@ -59,17 +60,9 @@ footer {
     font-size: 2em;
 }
 
-ul.posts { 
-    margin: 20px auto 40px; 
-    font-size: 3em;
-}
-
-ul.posts li {
-    list-style: none;    
-}
-
 ul li{
     list-style: none;
+    text-decoration: none;
 }
 
 h2 {
