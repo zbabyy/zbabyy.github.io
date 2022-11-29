@@ -17,6 +17,13 @@ nav ul {
 
 a.nav{
     color: Black;
+    text-decoration: none;
+}
+
+nav 
+{
+  background-color: rgba(255,255,240, 0.5);
+  position: fixed;
 }
 
 nav ul li {
@@ -30,6 +37,7 @@ nav ul li {
 
 a {
     color: Blue;
+    text-decoration: none;
 }
 
 a:hover {
@@ -40,7 +48,7 @@ a:hover {
 }
 
 h1 {
-    color:MidnightBlue;
+    color: MidnightBlue;
     font-size: 3em;
     font-family: 'Century Gothic', 'Serif';
     margin: center;
@@ -48,28 +56,9 @@ h1 {
     
 }
 
-p {
-    font-size: 1.5em;
-    line-height: 1.4em;
-    color: Gold;
-    font-size:30px;
-}
-
-footer {
-    border-top: 1px solid #d5d5d5;
-    font-size: 2em;
-}
-
 ul li{
     list-style: none;
     text-decoration: none;
-}
-
-h2 {
-    font-family: 'Century Gothic';
-    font-size: 100px;  
-    background-size: cover;
-    color: Aqua;
 }
 
 h3 {
@@ -78,61 +67,14 @@ h3 {
     color: Black;
     text-align: Center;
 }
-div ul li {
-    font-size:50px;
-    color: Purple;
-}
 
-table{
-    border-spacing: 0 15px;
+table {
+    border-collapse: separate;
+    border-spacing: 20px 0;
 }
 
 th {
     font-family:"Comic Sans MS";
     font-size: 40px;   
-    word-spacing: 2em;
-}
-
-td {
-    font-family:"Century Gothic";
-    font-size: 40px;
-    color: Black;
-}
-
-button {
-    font-size: 20px;
-    font-family: "Comic Sans MS";    
-    background-color: Gold;
-    border: 1px;
-    border-color: MidnightBlue;
-}
-
-h4 {
-    color: Brown;
-    font-family: 'Tahoma, Arial, Helvetica, sans-serirf';
-    font-weight: bold; 
-    font-size: 50px;     
-}
-
-div.announcements h3 {
-    color:DarkBlue;
-    font: 'Century';
-    font-size: 40px;
-}
-
-div.times li{
-    color: Crimson;
-    font: 'Century';
-    font-size: 30px
-}
-
-div.times p {
-    color: Gray;
-    font-weight: bold;
-    font: 'Comic Sans MS';
-    font-size: 35px
-}
-
-div.announcements {
-    background-color: YELLOW;
+    word-spacing: 5em;
 }
